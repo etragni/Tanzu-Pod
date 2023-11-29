@@ -1,6 +1,6 @@
 FROM ubuntu
 ENV DEBIAN_FRONTEND=noninteractive
-ENV TANZU_CLI_VERSION=v1.1.0
+ENV TANZU_CLI_VERSION=v1.6.1
 # See https://github.com/vmware-tanzu/tanzu-cli/releases
 ENV TANZU_CLI_BUNLDE=tanzu-cli-linux-arm64-unstable.tar.gz
 ENV TANZU_CLI_CEIP_OPT_IN_PROMPT_ANSWER=no
